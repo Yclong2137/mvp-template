@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.yclong2137.mvptemplate.listeners
 
 import com.intellij.ide.FrameStateListener
 import com.intellij.openapi.diagnostic.thisLogger
